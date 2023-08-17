@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowApi/WorkflowApi.csproj": {}
+  },
+  "projects": {
+    "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowApi/WorkflowApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowApi/WorkflowApi.csproj",
+        "projectName": "WorkflowApi",
+        "projectPath": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowApi/WorkflowApi.csproj",
+        "packagesPath": "/home/sempai/.nuget/packages/",
+        "outputPath": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sempai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/WorkflowLib.csproj": {
+                "projectPath": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/WorkflowLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "WorkflowEngine.NETCore-Core": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "WorkflowEngine.NETCore-ProviderForMSSQL": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sempai/.dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/WorkflowLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/WorkflowLib.csproj",
+        "projectName": "WorkflowLib",
+        "projectPath": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/WorkflowLib.csproj",
+        "packagesPath": "/home/sempai/.nuget/packages/",
+        "outputPath": "/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sempai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "WorkflowEngine.NETCore-Core": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "WorkflowEngine.NETCore-ProviderForMSSQL": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/sempai/.dotnet/sdk/6.0.413/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

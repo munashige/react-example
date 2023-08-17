@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkflowLib\WorkflowLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WorkflowEngine.NETCore-Core" Version="10.0.1" />
+    <PackageReference Include="WorkflowEngine.NETCore-ProviderForMSSQL" Version="10.0.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

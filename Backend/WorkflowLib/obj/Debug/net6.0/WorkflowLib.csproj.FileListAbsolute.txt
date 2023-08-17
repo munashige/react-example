@@ -1,0 +1,12 @@
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/bin/Debug/net6.0/WorkflowLib.deps.json
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/bin/Debug/net6.0/WorkflowLib.dll
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/bin/Debug/net6.0/WorkflowLib.pdb
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.csproj.AssemblyReference.cache
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.AssemblyInfoInputs.cache
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.AssemblyInfo.cs
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.csproj.CoreCompileInputs.cache
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.dll
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/refint/WorkflowLib.dll
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/WorkflowLib.pdb
+/home/sempai/Documents/Workengine/react-example/Backend/WorkflowLib/obj/Debug/net6.0/ref/WorkflowLib.dll
